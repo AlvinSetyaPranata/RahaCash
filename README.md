@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -62,3 +63,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# RahaCash
+adalah aplikasi manajemen cashflow yang dirancang khusus untuk membantu Bengkel Bapak Rahmat dalam mengelola pemasukan dan pengeluaran secara efisien. Dengan RahaCash, pencatatan transaksi harian menjadi lebih mudah, transparan, dan terorganisir, sehingga pemilik bengkel dapat memantau keuangan bisnis dengan lebih akurat.
+>>>>>>> addc71b3d6199eca3e26772fb6be9ab0823905d2
