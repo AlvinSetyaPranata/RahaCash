@@ -61,7 +61,7 @@ Special thanks go to:
 
 - [Start page](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html)
 - [User profile page](https://demos.creative-tim.com/material-dashboard/examples/user.html)
-- [Tables page ](https://demos.creative-tim.com/material-dashboard/examples/tables.html)
+- [Tables page ](https://demos.creative-tim.com/material-dashboard/examples/transaksi.html)
 - [Maps Page](https://demos.creative-tim.com/material-dashboard/examples/map.html)
 - [Notifications page](https://demos.creative-tim.com/material-dashboard/examples/notifications.html)
 
